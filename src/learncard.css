@@ -33,27 +33,30 @@
 @media screen and (max-width:1220px) {
   #learn {
     /* position: absolute; */
-    height: 200vh;
+    /* height: 200vh; */
+    height: 1054px;
   }
 }
 
 @media screen and (max-width:720px) {
   #learn {
+    /* height: 1rem; */
     position: relative;
-    height: 280vh;
+    height: 1480px;
+    /* height: 280vh; */
   }
 }
 
 @media screen and (max-width:470px) {
   #learn {
     position: relative;
-    height: 450vh;
+    height: 2394px;
   }
 }
 @media screen and (max-width:428px) {
   #learn {
     position: relative;
-    height: 454vh;
+    height: 2450px;
   }
 }
 
