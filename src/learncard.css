@@ -31,7 +31,7 @@
          height: 207vh;
     }
 }
-@media  screen and (max-width:723px) {
+@media  screen and (max-width:720px) {
     #learn{
         position: relative;
          height: 291vh;
@@ -44,12 +44,7 @@
     }
 }
  
-@media  screen and (max-width:280px) {
-    #learn{
-        position: relative;
-         height: 490vh;
-    }
-}
+ 
  
 #learn hr.star-primary:after{
     /* background: linear-gradient(to right, #8e9eab, #eef2f3);  */
