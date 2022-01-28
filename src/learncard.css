@@ -27,11 +27,12 @@
   background: linear-gradient(to right, #8e9eab, #eef2f3);
   /* border:2px solid red; */
   position: relative;
+  /* position: absolute; */
 }
 
 @media screen and (max-width:1220px) {
   #learn {
-    position: relative;
+    /* position: absolute; */
     height: 200vh;
   }
 }
