@@ -25,18 +25,32 @@
    /* border:2px solid red; */
    position: relative;
 }
+@media  screen and (max-width:1220px) {
+    #learn{
+        position: relative;
+         height: 207vh;
+    }
+}
 @media  screen and (max-width:723px) {
     #learn{
         position: relative;
-         height: 170vh;
+         height: 291vh;
     }
 }
 @media  screen and (max-width:470px) {
     #learn{
         position: relative;
-         height: 240vh;
+         height: 458vh;
     }
 }
+ 
+@media  screen and (max-width:280px) {
+    #learn{
+        position: relative;
+         height: 490vh;
+    }
+}
+ 
 #learn hr.star-primary:after{
     /* background: linear-gradient(to right, #8e9eab, #eef2f3);  */
  background: none;
@@ -121,6 +135,9 @@
 .card-header.four{
   background: linear-gradient(to bottom left, var(--card4-gradient-color1), var(--card4-gradient-color2));
 }
+.card-header.five{
+  background: linear-gradient(to bottom left, var(--card1-gradient-color1), var(--card2-gradient-color2));
+}
 
 .card-btn.one{
   background: linear-gradient(to left, var(--card1-gradient-color1), var(--card1-gradient-color2));
@@ -134,7 +151,12 @@
 .card-btn.four{
   background: linear-gradient(to left, var(--card4-gradient-color1), var(--card4-gradient-color2));
 }
+.card-btn.five{
+  background: linear-gradient(to bottom left, var(--card1-gradient-color1), var(--card2-gradient-color2));
+ }
+
 .card-btn a{
   text-decoration: none;
   color:white;
 }
+ 
