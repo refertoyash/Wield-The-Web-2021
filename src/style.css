@@ -36,12 +36,28 @@ body {
   margin-right: 155px;
 }
 
-@media screen and (max-width:963px) {
+@media screen and (max-width:1019px) {
   #top-logo {
     margin-right: 2px;
     /* border: 2px solid red; */
   }
 }
+@media screen and (max-width:867px) {
+  
+ 
+  .nav li a{
+padding-top: 15.5px;
+padding-right: 0px;
+  } 
+}
+@media screen and (max-width:777px) {
+  
+ 
+ #top-logo{
+   display: none;
+ }
+}
+ 
 
 p {
   font-size: 20px;
