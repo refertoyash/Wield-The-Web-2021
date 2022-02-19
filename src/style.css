@@ -1363,15 +1363,15 @@ a:hover {
 }
 
 .tiles:nth-child(1):before {
-  background-image: url(../Images/shubham.jpeg);
+  background-image: url(../Images/Aditya.jpeg);
 }
 
 .tiles:nth-child(2):before {
-  background-image: url(../Images/Akriti.jpeg);
+  background-image: url(../Images/Ashish.jpeg);
 }
 
 .tiles:nth-child(3):before {
-  background-image: url(../Images/Ayushi.jpeg);
+  background-image: url(../Images/Tushar.jpeg);
 }
 
 
