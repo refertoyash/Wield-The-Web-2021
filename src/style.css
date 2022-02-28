@@ -20,7 +20,7 @@ html, body {
 
 body {
   overflow-x: hidden;
-  color: #21212100;
+  color: #212121;
   /* overflow-y: hidden; */
 }
 
@@ -1183,7 +1183,7 @@ button.contact {
 }
 
 button.contact:hover {
-  /* cursor: pointer; */
+  cursor: pointer;
   background-color: #999;
 }
 
